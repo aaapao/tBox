@@ -1,4 +1,4 @@
-点击加入群组：https://t.me/+vgu3e34l2PQ5NDA1
+转载大佬tt9912项目，备份自用
 
 关于DLNA投屏、外部播放器：前提该视频未检测header协议头（例如：Referer、Origin、Cookie），才能调用外部播放。
 
